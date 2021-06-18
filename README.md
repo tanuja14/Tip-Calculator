@@ -2,5 +2,7 @@
 
 Mini-Project I made using Javascript.
 
-#Screenshots
+# Screenshots
+
+<img src="Screenshot (332).png" width="1000px">
 
