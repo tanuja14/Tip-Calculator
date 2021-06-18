@@ -1,0 +1,28 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    padding: 4em;
+    background-color: rgb(234, 236, 255);
+    display: grid;
+    justify-content: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+input{
+    padding: .5em;
+    background-color: rgb(212, 209, 255);
+    border-radius: 2px;
+    border-style: none;
+}
+
+button{
+    padding: .5em 1em;
+    margin-left: 1em;
+    background-color: rgb(78, 81, 255);
+    color: white;
+    border-radius: 2px;
+    border-style: none;
+}
